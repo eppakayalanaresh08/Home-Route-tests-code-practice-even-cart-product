@@ -1,0 +1,11 @@
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.image-cart {
+  width: 250px;
+  margin-top: 90px;
+}
